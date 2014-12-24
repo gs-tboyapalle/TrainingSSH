@@ -21,7 +21,6 @@ public class PrimeFactors {
 			System.out.println(n+"^"+1);
 			return;
 		}
-		int p[]=new int[n];
 			for(i=1;i<=n;i++)
 			{
 				c=0;
